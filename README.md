@@ -45,11 +45,13 @@ class MazenMohamed:
 
 ## 🧰 Tech Toolbox
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,powerbi,excel,git,github,vscode,matplotlib" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,excel,sql,vscode," />
+</p>
 
 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
 
 🎯 Current Focus
 
