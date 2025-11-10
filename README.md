@@ -63,6 +63,6 @@ class MazenMohamed:
 
 ⚡️ Motto
 
-<p align="center"> 💬 Let's connect and make data tell stories! 📈 </p> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" /> ```
+<p align="center"> 💬 Let's connect and make data tell stories! 📈 </p> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" /> 
 
 
