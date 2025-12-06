@@ -72,6 +72,25 @@
 
 <p align="center"> 
   💬 Let's connect and make data tell stories! 📈 </p> 
+
+## 🚀 Featured Projects
+
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/MazenMohamed506/REPO_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MazenMohamed506&repo=REPO_ONE&theme=tokyonight" />
+</a>
+</td>
+
+<td>
+<a href="https://github.com/MazenMohamed506/REPO_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MazenMohamed506&repo=REPO_TWO&theme=tokyonight" />
+</a>
+</td>
+</tr>
+</table>
+
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" /> 
 
 
