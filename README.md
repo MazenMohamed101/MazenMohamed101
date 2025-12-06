@@ -2,18 +2,7 @@
 <h3 align="center">Data Analysis Developer 🧠 | Machine Learning Engineer 🤖</h3>
 
 
-
----
-
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
-
-## 🚀 About Me
-
-- 16 years old  
-- I enjoy building dashboards, training machine learning models, and improving the way data tells stories.  
-- Always learning, always exploring — data is my language. 📊🤖
-
-## 🔎 Contact Me 
+<h4 align="center">Contact me 👇</h4>
 <p align="center">
   <!-- Facebook -->
   <a href="https://www.facebook.com/mazen.mohamed.192706" target="_blank">
@@ -40,6 +29,16 @@
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
+## 🚀 About Me
+
+- 16 years old  
+- I enjoy building dashboards, training machine learning models, and improving the way data tells stories.  
+- Always learning, always exploring — data is my language. 📊🤖
+
+
 ## 🎯 Current Focus
 
 - 📊 Skilled at analyzing and visualizing complex datasets  
