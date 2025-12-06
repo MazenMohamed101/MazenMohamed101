@@ -1,19 +1,6 @@
 <h1 align="center">Hi, I'm Mazen Mohamed 👋</h1>
 <h3 align="center">Data Analysis Developer 🧠 | Machine Learning Engineer 🤖</h3>
 
-<p align="center">
-  <a href="https://www.facebook.com/mazen.mohamed.192706">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/MazenMohamed506">
-    <img src="https://img.shields.io/badge/GitHub-MazenMohamed506-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/corvex_07">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
 
 ---
@@ -22,11 +9,37 @@
 
 ## 🚀 About Me
 
-- I'm Mazen, a Data Analyst & ML enthusiast who loves turning raw data into clear insights and smart models.  
+- 16 years old  
 - I enjoy building dashboards, training machine learning models, and improving the way data tells stories.  
 - Always learning, always exploring — data is my language. 📊🤖
 
-
+## 🔎 Contact Me 
+<p align="center">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/mazen.mohamed.192706" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/corvex_07" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/Mazen Mohamed" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/MazenMohamed506" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</p>
 ## 🎯 Current Focus
 
 - 📊 Skilled at analyzing and visualizing complex datasets  
