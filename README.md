@@ -3,17 +3,14 @@
 
 
 <h4 align="center">Contact me 👇</h4>
-<p align="center">
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/mazen.mohamed.192706" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
+
   
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/corvex_07" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  
+
+</p>
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
+## Contact Me 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mazen-mohamed-766665393/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
@@ -24,16 +21,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   
-  <!-- GitHub -->
-  <a href="https://github.com/MazenMohamed101" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
-
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
-
 ## 🚀 About Me
-
 - 16 years old  
 - I enjoy building dashboards, training machine learning models, and improving the way data tells stories.  
 - Always learning, always exploring — data is my language. 📊🤖
@@ -43,9 +31,8 @@
 
 - 📊 Skilled at analyzing and visualizing complex datasets  
 - 📈 Experienced in Power BI and interactive dashboards  
-- 🧩 Strong background in data cleaning and preprocessing
-- 🤖 Building and training machine learning models  
-- 💡 Passionate about turning data into decisions  
+- 🧩 background in data cleaning and preprocessing
+- 🤖 Building and training machine learning models    
 - 🚀 Always exploring new tools and AI techniques
 
 ---
@@ -63,7 +50,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MazenMohamed101&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MazenMohamed101&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MazenMohamed101&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MazenMohamed101&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
 
 ## ⚡️ Motto
 
