@@ -22,7 +22,7 @@
 
 
 ## 🚀 About Me
-- I'm 16 years olde
+- I'm 16 years old
 - I enjoy learning data analysis & engineering
 - I like building simple dashboards and exploring AI tools
 
