@@ -28,9 +28,28 @@
 
 ## 🧰 Skills
 <p>
-    <img src="https://img.icons8.com/color/96/python.png" width="50" />
-    <img src="https://img.icons8.com/color/96/mysql.png" width="50" />
-    <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="50" />
+  
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
+
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
+  
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  
     <img src="https://skillicons.dev/icons?i=github" width="50" />
     <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50" />
     <img src="https://img.icons8.com/color/96/power-bi.png" width="50" />
