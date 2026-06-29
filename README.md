@@ -12,10 +12,10 @@
 ### Contact Me 👇
 
 <p>
-    <a href="https://www.linkedin.com/in/mazen-mohamed7/"><img
-            src="https://img.icons8.com/fluency/48/linkedin.png" width="40" />
-        <a href="mailto:mazenmohamed7651@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png"
-                width="40" />
+<a href="https://www.linkedin.com/in/mazen-mohamed7/">
+<img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" />
+<a href="mailto:mazenmohamed7651@gmail.com">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" />
             <a href="https://discord.com/users/ID_HERE"><img src="https://img.icons8.com/fluency/48/discord.png"
                     width="40" />
             </a>
@@ -30,24 +30,41 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
 
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-  
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+<img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" width="40" height="40"/>
+    
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+</a>
+
+
 </p>
 
 ## 📊 GitHub Stats
