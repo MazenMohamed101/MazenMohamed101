@@ -1,9 +1,13 @@
-<h1 align="center">👋 Hi, I'm Mazen Mohamed</h1>
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=00FFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+Student;Aspiring+Data+Engineer" 
-  />
-</h3>
+<h1 align="center">Hi 👋, I'm Mazen Mohamed</h1>
+<h3 align="center">Data Analyst | Aspiring Data Engineer</h3>
+
+- 🔭 I’m currently working on **transform raw data and build ETL pipelines and data workflows**
+
+- 🌱 I’m currently learning **Data Engineering | Data Architectures**
+
+- 👯 I’m looking to collaborate on **Data Engineering | Analysis project**
+
+- 💬 Ask me about **Python | SQL | PySpark | Databricks | Apache Airflow**
 
 ### Contact Me 👇
 
@@ -20,13 +24,7 @@
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-
-## 🚀 About Me
-- I'm 16 years old
-- I enjoy learning data analysis & engineering
-- I like building simple dashboards and exploring AI tools
-
-## 🧰 Skills
+###  Tools & Languages
 <p>
   
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -50,21 +48,20 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
-    <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50" />
-    <img src="https://img.icons8.com/color/96/power-bi.png" width="50" />
 </p>
 
 ## 📊 GitHub Stats
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mmohamed707&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    <img src="https://streak-stats.demolab.com?user=mmohamed707&theme=tokyonight&hide_border=true&border_radius=10"
         width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmohamed707&theme=tokyonight&hide_border=true&border_radius=10"
-        width="48%" />
+  
 </p>
-
-## ⚡️ My Goal
-#### going improve my skills and build cool data projects! 📈
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmohamed707/mmohamed707/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmohamed707/mmohamed707/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mmohamed707/mmohamed707/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
