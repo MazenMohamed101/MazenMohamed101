@@ -16,9 +16,9 @@
 <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" />
 <a href="mailto:mazenmohamed7651@gmail.com">
 <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" />
-            <a href="https://discord.com/users/ID_HERE"><img src="https://img.icons8.com/fluency/48/discord.png"
+            <!-- <a href="https://discord.com/users/ID_HERE"><img src="https://img.icons8.com/fluency/48/discord.png"
                     width="40" />
-            </a>
+            </a> -->
 </p>
 
 
@@ -44,13 +44,13 @@
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
 <img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" width="40" height="40"/>
     
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+<!-- <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
-</a>
+</a> -->
 
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+<!-- <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
-</a>
+</a> -->
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
